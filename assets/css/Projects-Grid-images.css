@@ -1,0 +1,10 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+@media (min-width: 768px) {
+  .video {
+    transform: rotate(20deg) scale(1.05);
+  }
+}
+
